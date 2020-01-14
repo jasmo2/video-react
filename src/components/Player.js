@@ -64,7 +64,7 @@ const propTypes = {
 
 const defaultProps = {
   fluid: true,
-  muted: false,
+  muted: true,
   playsInline: false,
   preload: 'auto',
   aspectRatio: 'auto'
